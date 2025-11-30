@@ -1,11 +1,10 @@
 streamlit
+# Use dlib-bin to avoid compiling from scratch (saves memory)
 dlib-bin
-face-recognition
+# Install face-recognition without its dependencies (since we handled dlib above)
+face-recognition --no-deps
+face_recognition_models
 opencv-python-headless
 numpy
 Pillow
-
-
-
-
 
