@@ -1,10 +1,12 @@
-streamlit
+python=3.10
 dlib
-rich<14.0.0
-opencv-python
-face-recognition
+face_recognition
+streamlit
+rich<14
+pip
 numpy
 Pillow
+
 
 
 
