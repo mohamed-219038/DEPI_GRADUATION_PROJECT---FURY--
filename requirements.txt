@@ -2,4 +2,5 @@ streamlit
 opencv-python
 face-recognition
 numpy
+dlib
 Pillow
