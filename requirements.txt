@@ -1,9 +1,9 @@
-python=3.9
-dlib
-cmake
-face_recognition
 streamlit
-rich<14
-pip
+opencv-python
+face-recognition
+numpy
+Pillow
+
+
 
 
