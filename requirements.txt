@@ -1,12 +1,8 @@
-python=3.10
-dlib
-face_recognition
-streamlit
-rich<14
-pip
-numpy
-Pillow
-
-
-
+- python=3.9
+  - dlib
+  - cmake
+  - face_recognition
+  - streamlit
+  - rich<14
+  - pip
 
