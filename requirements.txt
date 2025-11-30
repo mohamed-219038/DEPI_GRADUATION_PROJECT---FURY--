@@ -1,8 +1,9 @@
 streamlit
-rich<14
+rich<14.0.0
 opencv-python
 face-recognition
 numpy
 dlib
 Pillow
+
 
